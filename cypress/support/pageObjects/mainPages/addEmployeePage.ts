@@ -38,7 +38,7 @@ class AddEmployeePage{
                 middleName: empData.middleName,
                 lastName: empData.lastName,
                 empPicture: null,
-                employeeId: `${Math.random()*1000}`
+                employeeId: `${Math.floor(Math.random()*1000*Math.random())}`
             }
         })
     }
