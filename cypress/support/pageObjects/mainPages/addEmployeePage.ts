@@ -57,7 +57,7 @@ class AddEmployeePage{
                     userRoleId: 2,
                     empNumber: empNo
                 }
-            }).its('body');
+            }).its('body.data');
         })
     }
 
