@@ -1,0 +1,10 @@
+{
+    "data": {
+        "id": 61,
+        "firstName": "ibaa",
+        "lastName": "salman",
+        "email": "a@f.com",
+        "resumePath": "cypress/fixtures/cv.pdf",
+        "vacancyId": 92
+    }
+}
